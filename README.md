@@ -2,4 +2,4 @@
 
 ## Description
 
-It's my first repository, created with IBM Data Science Professional Certificate
+It's my first repository, created within IBM Data Science Professional Certification
